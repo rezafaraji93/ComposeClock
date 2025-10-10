@@ -4,9 +4,11 @@ A beautiful, animated analog clock built with Kotlin Multiplatform and Jetpack C
 
 ## 🎬 Demo Video
 
-https://github.com/user-attachments/assets/composeclock-demo
+https://github.com/user-attachments/assets/composeclock-demo.mp4
 
 *Watch the ComposeClock in action with all its stunning animations and effects!*
+
+> **Note**: To embed this video, upload your `compose clock.mov` file to a GitHub issue or comment, then replace the URL above with the GitHub-generated URL. GitHub will automatically convert it to an embedded, playable video.
 
 ## ✨ Features
 
