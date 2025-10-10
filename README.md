@@ -2,6 +2,12 @@
 
 A beautiful, animated analog clock built with Kotlin Multiplatform and Jetpack Compose Multiplatform. Features stunning visual effects that respond to time changes and platform-specific optimizations for Android, iOS, Desktop (JVM), and Web.
 
+## 🎬 Demo Video
+
+https://github.com/user-attachments/assets/composeclock-demo
+
+*Watch the ComposeClock in action with all its stunning animations and effects!*
+
 ## ✨ Features
 
 ### 🎨 Animated Effects
